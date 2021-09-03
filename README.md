@@ -10,5 +10,5 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 02-02 body, pre tag [link](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/02_html_body_pre.html)
   * 03 a, img tag [link](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/03_html_link_img.html)
   * 04 div, span, ul, ol, li tag [link](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/04_html_div_span.html)
-  * 05 summary tag[link] (https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/05_html_summary.html)
+  * 05 summary tag[link](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/05_html_summary.html)
   * 06 practice tag[link](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/06_html_main.html)
