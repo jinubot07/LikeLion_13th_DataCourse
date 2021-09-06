@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+    .gallery{border-style:dotted;           /*div.gallery 는 div에말고도 gallery가 여러개 있을 때*/
+             border-color:red;
+             margin: 50px;
+             padding: 20px;}
+    div.gallery{border : 1px solid #ccc;
+                margin : 5px;
+                float : left; /*공백 발생시 옆으로 배치*/
+                }
+    div.desc{color : white; background-color : black; text-align : center;}
+    .gallery:hover{                       /*특정 이벤트 발생시*/
+                border : 5px solid orange;}
+    </style>
+</head>
+<body>
+    <div class="gallery">
+        <a target = "blank" href="img_5terre.jpg"> <!--새로운창에서-->
+            <img src="img_5terre.jpg" width="300" height="200" alt ="not found">
+        </a>
+         <div class="desc">바다 풍경</div>
+    </div>
+
+    <div class="gallery">
+        <a target = "blank" href="img_forest.jpg">
+            <img src="img_forest.jpg" width="300" height="200" alt ="not found">
+        </a>
+        <div class="desc">숲 속 풍경</div>
+    </div>
+
+    <div class="gallery">
+        <a target = "blank" href="img_lights.jpg">
+            <img src="img_lights.jpg" width="300" height="200" alt ="not found">
+        </a>
+        <div class="desc">밤 하늘 오로라</div>
+    </div>
+</body>
+</html>

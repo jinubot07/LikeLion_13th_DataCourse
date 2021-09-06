@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--  05_external.css파일에 내용을 옮겨적음
+    <style>
+        h1 {color : blue; text-align:center;}
+        #ustyle {color : red; background-color:orange;}
+        .lstyle_ex {color : yellow; background-color:green;}
+
+    </style>
+    -->
+    <style>
+        .lstyle_in {color : yellow; background-color:green;}
+    </style>
+    <link rel="stylesheet" href="05_external.css">  <!-- 외부에서 파일에서 css가져오는 명령어 -->
+</head>
+<body>
+    <h1>CSS 스타일 적용 방법 3가지</h1>
+    <ul id="ustyle"> <!-- ul태그 안에서 기본값이 ustyle로 적용되고, 이후 적용되는 효과는 덮어쓰기가 됨.-->
+        <li> default - 아무 스타일 지정 X (오직 ul태그 스타일만 적용)</li>
+        <li style="color : yellow; background-color:green;">inline - style 지정 : 세부설정</li>
+        <li class="lstyle_in">internal - head요소 안에 style태그를 넣어 지정.(css문법 :id-#, class-.,해당tag 모든요소-tag명 )</li>
+        <li class="lstyle_ex">external - 외부 파일에 css지정이 있다.</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- html파일이어도 style 요소 안에서는 css문법을 따라야한다. style안에서의 주석은 /**/로 정의한다. -->
+    <style>
+        /* 적용시키려는 요소 {적용시키려는 효과 : 값, 마지막은 항상;} */
+        /* selector {definition} */
+        body {
+             background-color : lightblue;
+        }
+        #head {
+             background-color : green;
+             color : white;
+             text-align : right;
+        }
+
+        #p1 {       /* id는 샵(#)으로 지정 */
+            color : red;
+            text-align : center;
+        }
+
+        .p_class {  /* class는 점(.)으로 지정 */
+            color : orange;
+            text-align : right;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="head">나의 첫 번째 CSS Example</h1>
+    <p id="p1">이 요소는 단락 요소1 입니다.</p> </br>         <!--여러 단락중 해당 단락만 style적용하고싶을 때-->
+    <p class="p_class">이 요소는 단락 요소2 입니다.</p> </br>
+    <p class="p_class">이 요소는 단락 요소3 입니다.</p> </br>
+
+    <!-- (추가) p태그 전체를 class로 적용해 보기 -->
+</body>
+</html>

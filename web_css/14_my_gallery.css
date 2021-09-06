@@ -1,0 +1,8 @@
+.gallery{border : 3px solid black;
+                margin : 5px;
+                float : left; /*공백 발생시 옆으로 배치*/
+                color : white; background-color : black; text-align : center;
+                }
+.gallery:hover{                       /*특정 이벤트 발생시*/
+            border : 5px solid orange;
+            color : white; background-color : orange; text-align : center;}
