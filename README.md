@@ -13,5 +13,6 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 04 div, span, ul, ol, li tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/04_html_div_span.html)
   * 05 summary tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/05_html_summary.html)
   * 06 practice tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/06_html_main.html)
+
 * CSS 기본 이해
-  * Toy Project - 나의 사진 갤러리로 이동 tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_css/14_my_gallery.html)
+  * Toy Project - 나의 사진 갤러리로 [이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_css/14_my_gallery.html)
