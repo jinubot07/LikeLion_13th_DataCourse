@@ -16,3 +16,23 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
 
 * CSS 기본 이해
   * Toy Project - [나의 사진 갤러리로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/web_css/14_my_gallery.html) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_css/14_my_gallery.html)
+
+* JavaScript 기본 이해
+  * 01 button tag, alert() 함수 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/02_js_first.html)
+  * 02 var 변수 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/03_js_var.html)
+  * 03 document.write [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/04_js_var.html)
+  * 04 input tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/05_js_var_practice.html)
+  * 05 parseInt(), Number() 형변환 함수 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/07_js_number.html)
+  * 06 str slicing [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/08_js_str.html)
+  * 07 document.getElementById. [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/08_js_str_practice.html)
+  * 08 function [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/08_js_str_practice2.html)
+  * 09 array [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/09_js_array.html)
+  * 10 for [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/10_js_for.html)
+  * 11 external JS [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/11_js_ex.html)
+  * 12 try & exception [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/12_js_try_except.html)
+  * 13 Summary [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/SUMMARY.html)
+
+* Python -> Web data 크롤링
+  * soup, find, .text [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/01_chrome_test.py)
+  * find_all [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/02_ex.py)
+  * for문으로 text출력 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/03_bs4.py)
