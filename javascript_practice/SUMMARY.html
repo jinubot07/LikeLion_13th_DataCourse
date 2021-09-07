@@ -1,0 +1,65 @@
+// 0907 Review
+
+// Javascript
+HTML : 내용
+CSS  : 스타일
+JS   : 동작
+
+// 한줄 자바스크립트
+<button onclick="alert('들어갈 문구 입력')"> 버튼 </button>
+
+// 자바스크립트가 HTML에서 사용될 때
+<script> ~ </script>
+
+// 웹 페이지의 어떤 요소를 획득하고 해당 내용으 ㄹ변경
+document
+
+// JS 코드 - id 가 p1 인 요소의 정보를 변경시킨다.
+document.getElementById("p1").innerHTML = "변경시킬 언어"
+
+// python함수 vs JS함수
+def 함수():
+    실행문1
+    실행문2
+
+function 함수명 {
+                definition
+}
+
+// JS 변수
+var 변수이름 = 값;   변경되는 값
+let 변수이름 = 값;
+cons 변수이름 = 값;  수정하지 않을 값
+
+
+// 웹 페이지에서 정보확인
+alert() : 경고창 이용해서 확인
+document.write(값) : 직접 웹페이지에 출력(단, 이전 출력 지워짐)
+어떤 요소를 선택지정하여 값을 넣는다.
+
+// 형변환 문자열 -> 숫자로
+(python) int(),
+(JS) Number() 아니면 parseInt()
+
+// 문자열 함수 및 처리
+(python) len(리스트명 아니면 문자열)
+(JS) 문자열명.length
+
+(python) a = 'Hello' a[0:3]
+(JS) 무자열.slice(시작번호, 끝번호+1)
+
+//배열(파이썬의 리스트와 비슷)
+C언어 배열 -> JS (배열)
+var 배열명 = [요소1, 요소2, 요소3]
+
+// for문
+for( 변수와 초기값 지정 ; 변수가 만족하는 조건 ; 변수의 증감){
+    실행문
+}
+
+// try ~ except ~
+try {
+  실행문1
+} catch(err) {
+  실행문이 에러가 발생시 이곳이 실행된다.
+}

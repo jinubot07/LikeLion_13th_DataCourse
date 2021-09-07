@@ -1,0 +1,29 @@
+
+<!-- 두 개의 입력 요소에 값을 넣고, 이를 계산하는 것 - 댓글-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+        <script>
+        function plus(){
+        var a = document.getElementById("num1").value
+        var b = document.getElementById("num2").value
+        document.write(a+b)
+        alert(a+b)
+    }
+    </script>
+</head>
+<body>
+    1st num : <input type="number" name="num1"><br>
+    2nd num : <input type="number" name="num2"><br>
+
+    <button onclick="plus()">더하기</button>
+
+    <script>
+        function plus(a,b){
+        alert(a+b)
+    }
+    </script>
+</body>
+</html>

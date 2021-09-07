@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+    </script>
+</head>
+<body>
+    <h1>사용자에게 입력받은 값과 값의 크기(문장길이) 출력하기</h1>
+    <input id="text">
+    <button onclick="funcprint()">결과보기</button>
+    <script>
+       function funcprint(){
+             const result = document.getElementById('text').value;
+             var text5 = result.slice(0,5);
+             var size = result.length
+             document.write("문자 갯수 : " + size +", 앞 5글자 : " + text5)
+             // alert("문자 갯수 : " + size +", 앞 5글자 : " + text5)
+             /*
+             --자바스크립트 or html에서 javascript 출력 방법--
+             document.write(), element.innerHTML(), alert(),
+             console.log(), confirm('메시지'), prompt('메시지')
+             */
+        }
+    </script>
+</body>
+</html>

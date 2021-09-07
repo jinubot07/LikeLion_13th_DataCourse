@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function cal(){
+            const a = document.getElementById('num1').value
+            const b = document.getElementById('num2').value
+
+            var c = Number(a) + parseInt(b)
+            alert(c)
+        }
+    </script>
+
+</head>
+<body>
+
+  <h1>두 값 계산하기</h1>
+  <input type="number" id="num1"/> <br> <!--type = "number" 숫자형태만 인식하겟다.-->
+  <input type="number" id="num2"/> <br>
+  <button onclick="cal()"> 덧셈하기 </button>
+
+</body>
+</html>

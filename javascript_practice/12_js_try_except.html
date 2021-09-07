@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<p id="demo_err" onmouseover="this.style.backgroundColor='orange'">마우스 커서를 가져다 대시오.</p>
+
+
+    <script>
+        try{
+            // aalert("Hello Welcome"); // aalert is not defined. 이라는 에러가 뜸
+            const a =3;     a= 10;      // Assignment to constant variable. 이라는 에러가 뜸
+        }   catch(err){
+            document.getElementById("demo_err").innerHTML = err.message;
+            // 태그 자리에 마우스 커서를 가져다 대시오 대신 err.message를 띄워라.
+            // id가 demo_err인 p태그의 값(내용)은 바뀌더라도 효과(마우스오버시 색변화)는 그대로 유지
+
+        }
+    </script>
+
+</body>
+</html>

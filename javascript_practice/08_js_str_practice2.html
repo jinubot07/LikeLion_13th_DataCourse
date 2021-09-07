@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<input id='name' onkeyup='p()'/>
+<div id='result'>문자갯수</div>
+<div id='result2'>앞 5글자</div>
+</body>
+ <script>
+   function p()  {
+  const name = document.getElementById('name').value;
+  document.getElementById("result").innerText = name.length;
+  document.getElementById("result2").innerText = name.slice(0,5);
+}
+    </script>
+</html>
