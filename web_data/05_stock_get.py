@@ -65,9 +65,12 @@ print('(2-4) csv와 excel로 변환하기')
 import pandas as pd
 dat = pd.DataFrame({"시황뉴스 : ":  news_title})
 print(dat)
-dat.to_csv("news.csv",index=True)               # index 넣기
+dat.to_csv("news.csv", index=True)               # index 넣기
 dat.to_excel("news_excel.xlsx", index=False)    # index 안넣기
 print()
+
+
+
 
 # 시황정보 리포트 가져오기
 print("(3) 시황정보 리포트 가져오기")
