@@ -4,6 +4,7 @@ import pandas as pd
 import wordcloud
 from wordcloud import WordCloud
 from matplotlib import rc
+import time
 
 basic_url = 'https://movie.naver.com/movie/point/af/list.naver?st=mcode&sword=66381&target=after&page='
 page = urlopen(basic_url)
@@ -24,9 +25,9 @@ soup = BeautifulSoup(page,'html.parser')
 #     comments_list.append(comment)
 
 
-### 5 페이지를 반복하여 10개씩 총 50개의 댓글 가져오기
+### 200 페이지를 반복하여 10개씩 총 50개의 댓글 가져오기
 comments_list =[]
-for i in range(1,6):
+for i in range(1,201):
     url = basic_url + str(i)
     page = urlopen(url)
     soup = BeautifulSoup(page, 'html.parser')
@@ -36,6 +37,8 @@ for i in range(1,6):
         comment = list(one.children)[6].strip()
         comments_list.append(comment)
 
+    time.sleep(0.2)         # 메크로 방지
+    
 dict_dat = {"영화'맘마미아1' 감상평": comments_list}
 dat = pd.DataFrame(dict_dat)
 dat.to_csv("영화'맘마미아1'감상평.csv", index=True)
