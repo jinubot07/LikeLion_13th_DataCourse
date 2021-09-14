@@ -26,8 +26,8 @@ import time
 # jobkoreaID = input("잡코리아 ID 입력 : ")
 # jobkoreaPW = input("잡코리아 Password 입력 : ")
 # companyName = input("검색하려는 기업명 입력 : ")
-jobkoreaID = 'ehzndk'
-jobkoreaPW = 'jw2486282'
+jobkoreaID = '****'
+jobkoreaPW = '*****'
 companyName = 'SK하이닉스'
 
 # 1-1. 잡코리아 메인 사이트 접속: 웹사이트 HTML SOURCE CODE가져오기 (방법 1: BeautifulSoup)
