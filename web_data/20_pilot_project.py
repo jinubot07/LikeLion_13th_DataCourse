@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from urllib.request import urlopen
 import pandas as pd
+from wordcloud import WordCloud, STOPWORDS
+from matplotlib import rc
 import time
 ########################################################################################
 # 0. 합격 자기소개서를 확인할 기업체 리스트에 담기
@@ -23,12 +25,13 @@ import time
 ########################################################################################
 
 # 0. 정보입력(로그인정보, 검색 기업정보)
-# jobkoreaID = input("잡코리아 ID 입력 : ")
-# jobkoreaPW = input("잡코리아 Password 입력 : ")
-# companyName = input("검색하려는 기업명 입력 : ")
-jobkoreaID = '****'
-jobkoreaPW = '*****'
-companyName = 'SK하이닉스'
+jobkoreaID = input("잡코리아 ID 입력 : ")
+jobkoreaPW = input("잡코리아 Password 입력 : ")
+companyName = input("검색하려는 기업명 입력 : ")
+# jobkoreaID = '****'
+# jobkoreaPW = '****'
+# companyName = 'SK하이닉스'
+
 
 # 1-1. 잡코리아 메인 사이트 접속: 웹사이트 HTML SOURCE CODE가져오기 (방법 1: BeautifulSoup)
 url_main = "https://www.jobkorea.co.kr/"
@@ -48,7 +51,7 @@ time.sleep(1)
 # 1-2. 로그인 과정
 signinStart = driver.find_element_by_xpath('//*[@id="point"]/div/div[1]/div[1]/ul/li[1]/button')
 signinStart.click()
-time.sleep(2)
+time.sleep(1)
 signinID = driver.find_element_by_xpath('//*[@id="lb_id"]')
 signinPW = driver.find_element_by_xpath('//*[@id="lb_pw"]')
 signinButton = driver.find_element_by_xpath('//*[@id="loginForm"]/fieldset/div[1]/button')
@@ -68,6 +71,7 @@ driver.get(url_cv)
 close_button = driver.find_element_by_xpath('/html/body/div[7]/div/button')
 close_button.click()
 
+
 # 2-1. 검색조건 선택 : 지원분야(IT인터넷>전체), 근무형태(신입), 학력(4년제대졸) 체크
 sort_field_IT = driver.find_element_by_xpath('//*[@id="container"]/div[2]/div[2]/div/div[1]/div/dl[1]/dd[1]/div/div[1]/div/ul[1]/li[3]/label')
 sort_field_IT.click()
@@ -79,6 +83,8 @@ sort_acade = driver.find_element_by_xpath('//*[@id="container"]/div[2]/div[2]/di
 sort_acade.click()
 sort_button = driver.find_element_by_xpath('//*[@id="container"]/div[2]/div[2]/div/div[2]/button')
 sort_button.click()
+time.sleep(1)
+# 한 방에 가는 방법이 잇었음;;
 # url_sort = "https://www.jobkorea.co.kr/starter/PassAssay?schPart=10016&schWork=1&schEduLevel=3&schCType=&schGroup=&isSaved=0&isFilterChecked=&OrderBy=0&schTxt="
 # driver.get(url_sort)
 
@@ -87,8 +93,11 @@ company_name = driver.find_element_by_xpath('//*[@id="txtSearch"]')
 company_name.send_keys(companyName)
 company_search = driver.find_element_by_xpath('//*[@id="btnSraech"]')
 company_search.click()
+time.sleep(1)
+
 
 # 3. (옵션) 전문가 분석 보기 -> 전문가 총평 3점 이상인 합격자기소개서만 보기
+
 
 
 # 4-1. 합격자소서의 개수(->for문에 활용)
@@ -112,31 +121,44 @@ howmany_cv = len(soup.find_all('div',class_='txBx'))
 #세번째 합격자소서 xpath : //*[@id="container"]/div[2]/div[5]/ul/li[3]/div[1]/div/div[1]/a
 #네번째 합격자소서 xpath : //*[@id="container"]/div[2]/div[5]/ul/li[4]/div[1]/div/div[1]/a
 
-passed_cv_xpath = '//*[@id="container"]/div[2]/div[5]/ul/li[1]/div[1]/div/div[1]/a'
-passed_cv_button = driver.find_element_by_xpath(passed_cv_xpath)
-passed_cv_button.click()
-
-page = driver.page_source
-soup = BeautifulSoup(page, 'html.parser')   # 검증절차 : print(soup.title)
-soup_q = soup.find('dl','qnaLists')
-howmany_q = len(soup_q.find_all('span',class_='num'))
-answer = soup.find_all('div', class_='tx')
-
-answer_list = []
-for i in range(howmany_q) :
-    answer_list.append(list(answer)[i].text)
-print(answer_list)
-
-# #for i in range(1,howmany+1):
-#     # 합격 자소서 페이지로 이동
-#     passed_cv_xpath = '//*[@id="container"]/div[2]/div[5]/ul/li['+str(i)+']/div[1]/div/div[1]/a'
-#     passed_cv_button = driver.find_element_by_xpath(passed_cv_xpath)
-#     passed_cv_button.click()
+#               # 하나의 합격 자소서 크롤링
+# passed_cv_xpath = '//*[@id="container"]/div[2]/div[5]/ul/li[1]/div[1]/div/div[1]/a'
+# passed_cv_button = driver.find_element_by_xpath(passed_cv_xpath)
+# passed_cv_button.click()
 #
 # page = driver.page_source
+# soup = BeautifulSoup(page, 'html.parser')   # 검증절차 : print(soup.title)
+# soup_q = soup.find('dl','qnaLists')
+# howmany_q = len(soup_q.find_all('span',class_='num'))
+# answer = soup.find_all('div', class_='tx')
+#
+# # 4-3. 합격자소서 크롤링 : 답변만 크롤링
+# answer_list = []
+# for i in range(howmany_q) :
+#     answer_list.append(list(answer)[i].text)
+# print(answer_list)
 
+            # 여러 합격 자소서 크롤링
+answer_list = []
+for i in range(1,howmany_cv + 1):
+    # 합격 자소서 페이지로 이동
+    passed_cv_xpath = '//*[@id="container"]/div[2]/div[5]/ul/li['+str(i)+']/div[1]/div/div[1]/a'
+    passed_cv_button = driver.find_element_by_xpath(passed_cv_xpath)
+    passed_cv_button.click()
 
-# 4-3. 합격자소서 크롤링 : 답변만 크롤링
+    page = driver.page_source
+    soup = BeautifulSoup(page, 'html.parser')
+    soup_q = soup.find('dl','qnaLists')
+    howmany_q = len(soup_q.find_all('span',class_='num'))
+    answer = soup.find_all('div', class_='tx')
+
+    for i in range(howmany_q) :
+        answer_list.append(list(answer)[i].text)
+
+    driver.get(url_now)         # 목록 페이지로 이동
+    time.sleep(1)
+
+print(answer_list)
 
 
 # 5-1. csv형태로 저장 (csv파일로 변환하기)
@@ -144,6 +166,38 @@ passed_cv_csv = pd.DataFrame({"SK하이닉스 합격자소서": answer_list})
 # print(report_csv)
 passed_cv_csv.to_csv("SK하이닉스_합격자소서.csv", index=False)
 
+# 5-2. wordcloud로 시각화 (제외할 단어)
+f = open("SK하이닉스_합격자소서.csv", encoding='utf-8').read()
+rc('font', family='NanumGothic')
 
+
+stwords = set(STOPWORDS)    # 제외할 단어
+stwords.add("위해")
+stwords.add("저는")
+stwords.add("아쉬운점")
+stwords.add('통해')
+stwords.add('글자수')
+stwords.add('했습니다')
+stwords.add('때문에')
+stwords.add('것을')
+stwords.add('였습니다')
+stwords.add('있습니다')
+stwords.add("있었습니다")
+stwords.add("수")
+stwords.add("0000")
+
+wcloud = WordCloud('./data/D2Coding.ttf',
+                   stopwords = stwords,
+                   max_words=1000,
+                   relative_scaling=0.2,
+                   background_color='#FFFFFF').generate(f)
+
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=(12, 12))
+plt.imshow(wcloud, interpolation='bilinear')
+plt.axis('off')
+plt.savefig('SKhynix_passed_CV.png')
+plt.show()
 
 
