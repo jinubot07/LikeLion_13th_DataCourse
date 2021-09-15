@@ -4,7 +4,7 @@ From python To Deep-Learning for AI integration process, 멋쟁이 사자처럼 
 ##### 저장소 웹 URL : https://github.com/jinubot07/LikeLion_13th_DataCourse
 ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
 
-### 웹의 이해 및 HTML 기본 실습 (#적을수록 글씨가 커짐)
+### 웹의 이해 ~ 웹 데이터 수집 (#적을수록 글씨가 커짐)
 * HTML 기본 이해 실습 
   * 01 title tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/01_html_title.html) *url주소 repository > html파일이 단긴 사이트 링크
   * 02 body, p tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/02_html_body.html)
@@ -46,3 +46,11 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 영화 감상평 여러 페이지 댓글 크롤링 실습3 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/11_movie_multi_pages.py)
   * 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/12_text_vis.py)
   * 영화 <맘마미아> 감상평 댓글 크롤링 ~ 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/13_mammamia_review.py)
+  * selenium [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/14_selenium.py)
+  * selenium web link_get [code](16_20210910.py)
+  * selenium 으로 뉴스기사 크롤링 [code](17_search_engine.py)
+  * selenium 으로 아마존 쇼핑 품목 리뷰 크롤링 [code](19_amazon.py)
+  * pilot project : 합격 자소서의 키워드 뽑기 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/20_pilot_project.py)
+                                        [csv](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4_%ED%95%A9%EA%B2%A9%EC%9E%90%EC%86%8C%EC%84%9C.csv)
+                                        [img](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SKhynix_passed_CV.png)
+  * 
