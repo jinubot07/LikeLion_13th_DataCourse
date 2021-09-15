@@ -32,7 +32,7 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 12 try & exception [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/12_js_try_except.html)
   * 13 Summary [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/SUMMARY.html)
 
-* Python -> Web data 크롤링
+* Python -> Web data Crawling
   * soup, find, .text [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/01_chrome_test.py)
   * find_all [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/02_ex.py)
   * for문으로 text출력 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/03_bs4.py)
@@ -47,10 +47,15 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/12_text_vis.py)
   * 영화 <맘마미아> 감상평 댓글 크롤링 ~ 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/13_mammamia_review.py)
   * selenium [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/14_selenium.py)
-  * selenium web link_get [code](16_20210910.py)
-  * selenium 으로 뉴스기사 크롤링 [code](17_search_engine.py)
-  * selenium 으로 아마존 쇼핑 품목 리뷰 크롤링 [code](19_amazon.py)
+  * selenium web link_get [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/16_20210910.py)
+  * selenium 으로 뉴스기사 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/17_search_engine.py)
+  * selenium 으로 아마존 쇼핑 품목 리뷰 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/19_amazon.py)
   * pilot project : 합격 자소서의 키워드 뽑기 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/20_pilot_project.py)
                                         [csv](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4_%ED%95%A9%EA%B2%A9%EC%9E%90%EC%86%8C%EC%84%9C.csv)
                                         [img](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SKhynix_passed_CV.png)
-  * 
+* Python -> Web data Visualization
+  * wordcloud [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/12_text_vis.py)
+  * 실습1) 영화 <맘마미아> 리뷰 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/13_mammamia_review.py)
+  * 실습2) <SK하이닉스> 합격자소서 키워드 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/20_pilot_project.py)
+  * matplotlib.pyplot(plt), pandas(pd), numpy(np), seaborn(sns) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/12_text_vis.py)
+  * 실습) Kaggle(식당 매출 ~ 타이타닉 생존자) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_visualization/kaggle-plot.ipynb)
