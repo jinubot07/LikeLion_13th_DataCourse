@@ -53,6 +53,8 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * pilot project : 합격 자소서의 키워드 뽑기 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/20_pilot_project.py)
                                         [csv](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4_%ED%95%A9%EA%B2%A9%EC%9E%90%EC%86%8C%EC%84%9C.csv)
                                         [img](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SKhynix_passed_CV.png)
+  * pandas 정리(DataFrame이해 ~ 분석 실습) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_visualization/20210916_pd_sns%5BMAC%5D.ipynb)
+
 * Python -> Web data Visualization
   * wordcloud [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/12_text_vis.py)
   * 실습1) 영화 <맘마미아> 리뷰 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/13_mammamia_review.py)
