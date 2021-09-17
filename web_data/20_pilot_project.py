@@ -168,7 +168,7 @@ passed_cv_csv = pd.DataFrame({"SK하이닉스 합격자소서": answer_list})
 csv_name = companyName + "_합격자소서.csv"
 passed_cv_csv.to_csv(csv_name, index=False)
 
-# 5-2. wordcloud로 시각화 (제외할 단어)
+# 5-2. 데이터 전처리
 f = open(csv_name, encoding='utf-8').read()
 rc('font', family='NanumGothic')
 
@@ -191,6 +191,7 @@ stwords.add("있는")
 stwords.add("0000")
 
 
+# 5-3. wordcloud로 시각화 (제외할 단어)
 wcloud = WordCloud('./data/D2Coding.ttf',
                    stopwords = stwords,
                    max_words=1000,
