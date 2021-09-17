@@ -164,10 +164,11 @@ print(answer_list)
 # 5-1. csv형태로 저장 (csv파일로 변환하기)
 passed_cv_csv = pd.DataFrame({"SK하이닉스 합격자소서": answer_list})
 # print(report_csv)
-passed_cv_csv.to_csv("SK하이닉스_합격자소서.csv", index=False)
+csv_name = companyName + "_합격자소서.csv"
+passed_cv_csv.to_csv(csv_name, index=False)
 
 # 5-2. wordcloud로 시각화 (제외할 단어)
-f = open("SK하이닉스_합격자소서.csv", encoding='utf-8').read()
+f = open(csv_name, encoding='utf-8').read()
 rc('font', family='NanumGothic')
 
 
@@ -181,10 +182,13 @@ stwords.add('했습니다')
 stwords.add('때문에')
 stwords.add('것을')
 stwords.add('였습니다')
+stwords.add('싶습니다')
 stwords.add('있습니다')
 stwords.add("있었습니다")
 stwords.add("수")
+stwords.add("있는")
 stwords.add("0000")
+
 
 wcloud = WordCloud('./data/D2Coding.ttf',
                    stopwords = stwords,
@@ -194,10 +198,11 @@ wcloud = WordCloud('./data/D2Coding.ttf',
 
 import matplotlib.pyplot as plt
 
+png_name = companyName + "_합격자소서_worcloud.png"
 plt.figure(figsize=(12, 12))
 plt.imshow(wcloud, interpolation='bilinear')
 plt.axis('off')
-plt.savefig('SKhynix_passed_CV.png')
+plt.savefig(png_name)
 plt.show()
 
 
