@@ -50,6 +50,7 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * selenium web link_get [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/16_20210910.py)
   * selenium 으로 뉴스기사 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/17_search_engine.py)
   * selenium 으로 아마존 쇼핑 품목 리뷰 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/19_amazon.py)
+  * pilot project : flow chart [img](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/PassedCV.png)
   * pilot project : 합격 자소서의 키워드 뽑기 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/20_pilot_project.py)
                                         [csv](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4_%ED%95%A9%EA%B2%A9%EC%9E%90%EC%86%8C%EC%84%9C.csv)
                                         [img](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SKhynix_passed_CV.png)
