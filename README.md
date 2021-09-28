@@ -4,6 +4,13 @@ From python To Deep-Learning for AI integration process, 멋쟁이 사자처럼 
 ##### 저장소 웹 URL : https://github.com/jinubot07/LikeLion_13th_DataCourse
 ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
 
+### 프로젝트
+* Pilot Project
+  * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/06_PRJ_pilot_project)
+  
+* Team Project
+  * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project)
+
 ### 웹의 이해 ~ 웹 데이터 수집 (#적을수록 글씨가 커짐)
 * HTML 기본 이해 실습 
   * 01 title tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/01_html_title.html) *url주소 repository > html파일이 단긴 사이트 링크
@@ -75,6 +82,3 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 실습) 타이타닉 데이터 분석 및 시각화(groupby, sort_values) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_titanic_data%5BMAC%5D.ipynb)
   * 실습) 코로나 데이터 분석 및 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_corona_data%5BMAC%5D.ipynb)
   * 실습) 타이타닉 데이터 분석 및 시각화(데이터 전처리 : 결측치처리, 자료형변환) [code1](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic%5BMAC%5D.ipynb)  [code2](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic2%5BMAC%5D.ipynb)
-
-* Team Project
-  * [Readme]()
