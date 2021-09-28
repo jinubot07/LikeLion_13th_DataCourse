@@ -1,3 +1,0 @@
-<html>
-html 및 github 실습
- - html_start01.html : 기본 html 파일
