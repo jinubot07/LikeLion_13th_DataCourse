@@ -1,17 +1,20 @@
 # LikeLion_13th_DataCourse
-From python To Deep-Learning for AI integration process, 멋쟁이 사자처럼 13회차 프로젝트 정리 및 발표
-
+From python To Deep-Learning for AI integration process
+멋쟁이 사자처럼 13회차 프로젝트 정리
 ##### 저장소 웹 URL : https://github.com/jinubot07/LikeLion_13th_DataCourse
-ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
+##### ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
 
-### 프로젝트
-* Pilot Project
+## 실습 및 프로젝트
+ * 나만의 홈페이지 만들기 ( 2021.09.07 ~ )
+   * ----06 practice [자기소개 홈페이지로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/web_html/06_html_main.html) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/06_html_main.html)
+
+* Pilot Project ( 2021.09.14 ~ 2021.09.16 )
   * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/06_PRJ_pilot_project)
   
-* Team Project
+* Team Project ( 2021.09.17 ~ 2021.10.08 예정 )
   * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project)
 
-### 웹의 이해 ~ 웹 데이터 수집 (#적을수록 글씨가 커짐)
+## 웹의 이해 및 HTML 실습
 * HTML 기본 이해 실습 
   * 01 title tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/01_html_title.html) *url주소 repository > html파일이 단긴 사이트 링크
   * 02 body, p tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/02_html_body.html)
@@ -38,7 +41,8 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
   * 11 external JS [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/11_js_ex.html)
   * 12 try & exception [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/12_js_try_except.html)
   * 13 Summary [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/SUMMARY.html)
-
+ 
+## 웹 데이터 수집 및 파이썬 라이브러리
 * Python -> Web data Crawling
   * soup, find, .text [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/01_chrome_test.py)
   * find_all [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/02_ex.py)
@@ -63,7 +67,8 @@ ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
                                         [img](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/SKhynix_passed_CV.png)
   * pandas 정리(DataFrame이해 ~ 분석 실습) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_visualization/20210916_pd_sns%5BMAC%5D.ipynb)
 
-* Visualization from Web data
+
+## 웹 데이터 시각화 및 파이썬 라이브러리
   * wordcloud [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/12_text_vis.py)
   * 실습1) 영화 <맘마미아> 리뷰 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/13_mammamia_review.py)
   * 실습2) <SK하이닉스> 합격자소서 키워드 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/20_pilot_project.py)
