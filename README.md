@@ -4,7 +4,10 @@ From python To Deep-Learning for AI integration process
 ##### 저장소 웹 URL : https://github.com/jinubot07/LikeLion_13th_DataCourse
 ##### ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
 
-## 프로젝트
+## 실습 및 프로젝트
+ * 나만의 홈페이지 만들기 ( 2021.09.07 ~ )
+   * ----06 practice [자기소개 홈페이지로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/web_html/06_html_main.html) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/06_html_main.html)
+
 * Pilot Project ( 2021.09.14 ~ 2021.09.16 )
   * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/06_PRJ_pilot_project)
   
@@ -39,9 +42,6 @@ From python To Deep-Learning for AI integration process
   * 12 try & exception [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/12_js_try_except.html)
   * 13 Summary [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_javascript/SUMMARY.html)
  
-### 나만의 홈페이지 만들기
- * ----06 practice [자기소개 홈페이지로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/web_html/06_html_main.html) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_html/06_html_main.html)
-
 ## 웹 데이터 수집 및 파이썬 라이브러리
 * Python -> Web data Crawling
   * soup, find, .text [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/web_data/01_chrome_test.py)
