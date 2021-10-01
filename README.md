@@ -91,7 +91,7 @@ From python To Deep-Learning for AI integration process
   * sns의 plot의 다양한 그래프 정리 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_plot_review%5BMAC%5D.ipynb)
   * 실습) 타이타닉 데이터 분석 및 시각화(groupby, sort_values) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_titanic_data%5BMAC%5D.ipynb)
   * 실습) 코로나 데이터 분석 및 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_corona_data%5BMAC%5D.ipynb)
-  * 실습) 타이타닉 데이터 분석 및 시각화(데이터 전처리 : 결측치처리, 자료형변환) [code1](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic%5BMAC%5D.ipynb) / [code2](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic2%5BMAC%5D.ipynb)
+  * 실습) 타이타닉 데이터 분석 및 시각화(데이터 전처리 : 결측치처리, 자료형변환) [code1](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928(1)_kaggle_titanic%5BMAC%5D.ipynb) / [code2](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928(2)_kaggle_titanic2%5BMAC%5D.ipynb)
   * 실습) 각종 코로나 데이터 전처리 및 합치기 [code_'coronaboard'](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210929(1)_corona_coronaboard%5BMAC%5D.ipynb) / [code_'bloomberg'](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210929(2)_corona_bloomberg%5BMAC%5D.ipynb) / [code_merge](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210929(3)_corona_data_merge%5BMAC%5D.ipynb)
 
 
