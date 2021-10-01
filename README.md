@@ -15,24 +15,24 @@ From python To Deep-Learning for AI integration process
   * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project)
 
 ## 파이썬의 기본과 데이터의 이해
-  * 입출력 및 자료형 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210827.ipynb)  [강사님 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210827%EA%B0%95%EC%82%AC%EB%8B%98%EC%9E%90%EB%A3%8C.ipynb)
-  * 반복문 및 함수 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210830.ipynb)  [강사님 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210830%EA%B0%95%EC%82%AC%EB%8B%98%EC%9E%90%EB%A3%8C.ipynb)
+  * 입출력 및 자료형 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210827.ipynb) / [강사님 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210827%EA%B0%95%EC%82%AC%EB%8B%98%EC%9E%90%EB%A3%8C.ipynb)
+  * 반복문 및 함수 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210830.ipynb) / [강사님 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210830%EA%B0%95%EC%82%AC%EB%8B%98%EC%9E%90%EB%A3%8C.ipynb)
   * 지역변수, 전역변수 및 로그인 알고리즘 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210831(%EB%A1%9C%EA%B7%B8%EC%9D%B8%2C%20%ED%8C%8C%EC%9D%BC).ipynb)
   * 클래스 및 예외처리 [강사님 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/class20210901%EA%B0%95%EC%82%AC%EB%8B%98%EC%9E%90%EB%A3%8C.ipynb)
 
 
 ## 웹의 이해 및 HTML 실습
 * HTML 기본 이해 실습 
-  * 01 title tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/01_html_title.html) *url주소 repository > html파일이 단긴 사이트 링크
+  * 01 title tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/01_html_title.html)
   * 02 body, p tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/02_html_body.html)
   * 02-02 body, pre tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/02_html_body_pre.html)
   * 03 a, img tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/03_html_link_img.html)
   * 04 div, span, ul, ol, li tag [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/04_html_div_span.html)
   * 05 summary [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/05_html_summary.html)
-  * 06 practice [자기소개 홈페이지로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/02_web_html/06_html_main.html) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/06_html_main.html)
+  * 06 practice [자기소개 홈페이지로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/02_web_html/06_html_main.html) / [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/02_web_html/06_html_main.html)
 
 * CSS 기본 이해
-  * Toy Project - [나의 사진 갤러리로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/03_web_css/14_my_gallery.html) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/03_web_css/14_my_gallery.html)
+  * Toy Project - [나의 사진 갤러리로 이동](https://jinubot07.github.io/LikeLion_13th_DataCourse/03_web_css/14_my_gallery.html) / [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/03_web_css/14_my_gallery.html)
 
 * JavaScript 기본 이해
   * 01 button tag, alert() 함수 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/04_web_javascript/02_js_first.html)
@@ -57,12 +57,9 @@ From python To Deep-Learning for AI integration process
   * for문으로 text출력 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/03_bs4.py)
   * 적절한 tag로 원하는 정보 추출 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/04_bs01_basic_find.py)
   * children으로 원하는 정보 추출 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/04_bs02_array_children.py)
-  * 주식정보 크롤링 실습1 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/05_stock_get.py)
-  * 주식정보 크롤링 실습2 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/06_kosdaq_get.py)
-  * 영화 정보 크롤링 실습1 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/08_movie_01.py)
-  * 영화 감상평 하나의 댓글 크롤링 실습1 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/09_movie_review.py)
-  * 영화 감상평 한 페이지 댓글 크롤링 실습2 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/10_movie_page.py)
-  * 영화 감상평 여러 페이지 댓글 크롤링 실습3 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/11_movie_multi_pages.py)
+  * 실습) 주식 정보 크롤링 [코스피정보 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/05_stock_get.py) / [시황정보 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/06_kosdaq_get.py)
+  * 실습1) 영화 기본정보 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/08_movie_01.py)
+  * 실습2) 영화 감상평 댓글 크롤링 [하나의 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/09_movie_review.py) / [한 페이지 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/10_movie_page.py) / [여러 페이지 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/11_movie_multi_pages.py)
   * 워드클라우드 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/12_text_vis.py)
   * 영화 <맘마미아> 감상평 댓글 크롤링 ~ 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/13_mammamia_review.py)
   
@@ -95,5 +92,5 @@ From python To Deep-Learning for AI integration process
   * sns의 plot의 다양한 그래프 정리 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_plot_review%5BMAC%5D.ipynb)
   * 실습) 타이타닉 데이터 분석 및 시각화(groupby, sort_values) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_titanic_data%5BMAC%5D.ipynb)
   * 실습) 코로나 데이터 분석 및 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210927_corona_data%5BMAC%5D.ipynb)
-  * 실습) 타이타닉 데이터 분석 및 시각화(데이터 전처리 : 결측치처리, 자료형변환) [code1](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic%5BMAC%5D.ipynb)  [code2](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic2%5BMAC%5D.ipynb)
+  * 실습) 타이타닉 데이터 분석 및 시각화(데이터 전처리 : 결측치처리, 자료형변환) [code1](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic%5BMAC%5D.ipynb) / [code2](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210928_kaggle_titanic2%5BMAC%5D.ipynb)
   * 실습) 각종 코로나 데이터 전처리 및 합치기 [code_'coronaboard'](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210929(1)_corona_coronaboard%5BMAC%5D.ipynb) / [code_'bloomberg'](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210929(2)_corona_bloomberg%5BMAC%5D.ipynb) / [code_merge](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210929(3)_corona_data_merge%5BMAC%5D.ipynb)
