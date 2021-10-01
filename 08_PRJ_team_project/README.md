@@ -25,5 +25,5 @@
 # Code Line
 * 정진우의 코드 : [공공자전거 이용현황](jinubot07.github.90/LikeLion_13th_DataCourse/08_PRJ_team_project/code/정진우/Team_PRJ_bike20.html)
 * 김범중님 코드 : [지하철_승객수 변화 비율](https://kbjung.github.io/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/code/김범중/(김범중님)지하철월별_승하차인원_그래프.html)
-* 가채원님 코드 : [코로나_확진자_수](jinubot07.github.90/LikeLion_13th_DataCourse/08_PRJ_team_project/code/가채원/(가채원님)월별%20코로나%20확진자%20변화율%20그래프.html), [2](kbjung.github.90/LikeLion_13th_DataCourse/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/가채원/210927_스파게티 (1).html)
-* 윤진훈님 코드 : [온라인쇼핑거래액1](jinubot07.github.90/LikeLion_13th_DataCourse/08_PRJ_team_project/code/윤진훈/(윤진훈님)Untitled10.html), [범중님 깃허브의 2](https://kbjung.github.io/LikeLion_13th_DataCourse/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
+* 가채원님 코드 : [코로나_확진자_수](jinubot07.github.90/LikeLion_13th_DataCourse/08_PRJ_team_project/code/가채원/(가채원님)월별%20코로나%20확진자%20변화율%20그래프.html), [1](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/가채원/210927_스파게티%20(1).html), [2](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/가채원/코로나_확진자_수(가채원).html)
+* 윤진훈님 코드 : [온라인쇼핑거래액1](jinubot07.github.90/LikeLion_13th_DataCourse/08_PRJ_team_project/code/윤진훈/(윤진훈님)Untitled10.html), [2](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
