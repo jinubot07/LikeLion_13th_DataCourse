@@ -1,5 +1,5 @@
 # Team Name : Spaghetti (Logo )
-* Team Logo : <img src="08_PRJ_team_project/report/spaghetti_code.jpg"  width="100" height="61"/> ![logo](https://raw.githubusercontent.com/jinubot07/LikeLion_13th_DataCourse/main/08_PRJ_team_project/report/spaghetti_code.jpg) ![spaghetti_code](https://user-images.githubusercontent.com/76489787/135559155-e76f058f-1798-490d-8cfa-4014e271bd72.jpg)
+* Team Logo : [logo](https://raw.githubusercontent.com/jinubot07/LikeLion_13th_DataCourse/main/08_PRJ_team_project/report/spaghetti_code.jpg) ![spaghetti_code](https://user-images.githubusercontent.com/76489787/135559155-e76f058f-1798-490d-8cfa-4014e271bd72.jpg)
 
 * Team Member
   * 팀장 : [김범중 님](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
