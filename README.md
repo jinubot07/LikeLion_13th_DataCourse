@@ -65,8 +65,8 @@ From python To Deep-Learning for AI integration process
 * Web Data Crawling - Selenium, Save the Data Set - Pandas
   * selenium [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/14_selenium.py)
   * selenium web link_get [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/16_20210910.py)
-  * selenium 으로 뉴스기사 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/17_search_engine.py)
-  * selenium 으로 아마존 쇼핑 품목 리뷰 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/19_amazon.py)
+  * 실습) 뉴스기사 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/17_search_engine.py)
+  * 실습) 아마존 쇼핑 품목 리뷰 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/19_amazon.py)
 
 * Bring Data Set - Seaborn, Save the Data Set - Pandas
   * pandas 정리(DataFrame이해 ~ 분석 실습) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210916_pd_sns%5BMAC%5D.ipynb)
