@@ -26,4 +26,4 @@
 * 정진우의 코드 : [공공자전거 이용현황](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/정진우/Team_PRJ_bike20.html)
 * 김범중님 코드 : [지하철_승객수 변화 비율](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/김범중/(김범중님)지하철월별_승하차인원_그래프.html)
 * 가채원님 코드 : [코로나_확진자_수](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/가채원/(가채원님)월별%20코로나%20확진자%20변화율%20그래프.html)
-* 윤진훈님 코드 : [온라인쇼핑거래액1](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/윤진훈/(윤진훈님)온라인쇼핑거래액.html)
+* 윤진훈님 코드 : [온라인쇼핑거래액](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/윤진훈/(윤진훈님)온라인쇼핑거래액.html)
