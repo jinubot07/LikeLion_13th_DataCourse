@@ -20,7 +20,6 @@
 * 온라인쇼핑몰 취급상품범위별 상품군별거래액(월별)
 * 한강공원 주차장 이용 현황(월별)
 * 서울시 인구동향(출생,사망,혼인,이혼통계) 통계
-
 * [폴더 이동](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project/data)
 
 # Code Line
