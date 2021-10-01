@@ -59,9 +59,8 @@ From python To Deep-Learning for AI integration process
   * children으로 원하는 정보 추출 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/04_bs02_array_children.py)
   * 실습) 주식 정보 크롤링 [코스피정보 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/05_stock_get.py) / [시황정보 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/06_kosdaq_get.py)
   * 실습1) 영화 기본정보 크롤링 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/08_movie_01.py)
-  * 실습2) 영화 감상평 댓글 크롤링 [하나의 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/09_movie_review.py) / [한 페이지 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/10_movie_page.py) / [여러 페이지 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/11_movie_multi_pages.py)
-  * 워드클라우드 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/12_text_vis.py)
-  * 영화 <맘마미아> 감상평 댓글 크롤링 ~ 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/13_mammamia_review.py)
+  * 실습2) 영화 <스파이더맨> 감상평 댓글 크롤링 [하나의 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/09_movie_review.py) / [한 페이지 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/10_movie_page.py) / [여러 페이지 댓글 크롤링 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/11_movie_multi_pages.py) / [워드클라우드 시각화 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/12_text_vis.py)
+  * 실습3) 영화 <맘마미아> 감상평 댓글 크롤링 ~ 시각화 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/13_mammamia_review.py)
   
 * Web Data Crawling - Selenium, Save the Data Set - Pandas
   * selenium [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/05_web_data/14_selenium.py)
