@@ -74,7 +74,7 @@ From python To Deep-Learning for AI integration process
 
 * Bring Data Set - Seaborn, Save the Data Set - Pandas
   * pandas 정리(DataFrame이해 ~ 분석 실습) [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210916_pd_sns%5BMAC%5D.ipynb)
-  * seaborn 라이브러리로 데이터셋 불러오기 [code]
+  * seaborn 라이브러리로 데이터셋 불러오기 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/07_data_visualization/20210915_class1%5BMAC%5D.ipynb)
 
 ## 웹 데이터 시각화 및 파이썬 라이브러리
 * WordCloud library
