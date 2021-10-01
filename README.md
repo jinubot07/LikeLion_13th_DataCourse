@@ -1,6 +1,12 @@
 # LikeLion_13th_DataCourse
 From python To Deep-Learning for AI integration process
 멋쟁이 사자처럼 13회차 프로젝트 정리
+
+## 일정
+ * ![8월](https://raw.githubusercontent.com/jinubot07/LikeLion_13th_DataCourse/main/08%EC%9B%94%EC%9D%BC%EC%A0%95.png)
+ * ![9월](https://raw.githubusercontent.com/jinubot07/LikeLion_13th_DataCourse/main/09월일정.png)
+ * ![10월](https://raw.githubusercontent.com/jinubot07/LikeLion_13th_DataCourse/main/10월일정.png)
+
 ##### 저장소 웹 URL : https://github.com/jinubot07/LikeLion_13th_DataCourse
 ##### ex) 깃허브 관리 좋은 예 : https://github.com/corazzon
 
