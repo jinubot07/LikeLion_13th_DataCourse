@@ -97,5 +97,5 @@ From python To Deep-Learning for AI integration process
 
 ## 자연어 처리
 * Knolpy
-  * 동화 Alice 텍스트 분석 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_data_analysis/20210930(1)_alice.ipynb)
-  * 영화 <분노의 질주> 감상평 분석 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_data_analysis/20210930(2)_movie_review.ipynb)
+  * 동화 Alice 텍스트 분석 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/09_data_analysis/20210930(1)_alice.ipynb)
+  * 영화 <분노의 질주> 감상평 분석 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/09_data_analysis/20210930(2)_movie_review.ipynb)
