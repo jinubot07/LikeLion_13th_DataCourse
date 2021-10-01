@@ -13,7 +13,8 @@
 * Interim : [PPT](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/211001_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf), [script](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/%EB%B0%9C%ED%91%9C%EB%8C%80%EB%B3%B8ver0.7.txt)
 * Final
 
-# Data-Set [폴더 이동](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project/data)
+# Data-Set
+* [폴더 이동](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project/data)
 * 서울특별시 코로나19 확진자 발생동향(월별)
 * 지하철 승하차승객수(월별)
 * 공공자전거 이용현황(2020년 월별), 공공자전거 이용현황(2021년 월별), 공공자전거_소계(2020년~2021년)
