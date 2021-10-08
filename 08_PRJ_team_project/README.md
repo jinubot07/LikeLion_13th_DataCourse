@@ -10,8 +10,8 @@
 
 # Presentation
 * Proposal : [report](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/LikeLion_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
-* Interim : [PPT](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/211001_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf), [script](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/%EB%B0%9C%ED%91%9C%EB%8C%80%EB%B3%B8ver0.7.txt)
-* Final
+* Interim : [PDF](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/211001_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf) , [script](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/211001_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8ver0.7.txt)
+* Final : [PDF](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/211008_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) , [script](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/211008_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8ver1.3.txt)
 
 # Data-Set
 * 서울특별시 코로나19 확진자 발생동향(월별)
