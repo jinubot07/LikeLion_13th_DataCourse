@@ -1,12 +1,24 @@
 # Team Name : Spaghetti (Logo ![logo](https://raw.githubusercontent.com/jinubot07/LikeLion_13th_DataCourse/main/08_PRJ_team_project/report/spaghetti_code.jpg) ![logo](https://user-images.githubusercontent.com/76489787/135559155-e76f058f-1798-490d-8cfa-4014e271bd72.jpg) )
 
 * Team Member
-  * 팀장 : [김범중 님](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
-  * 팀원 : [가채원 님](https://github.com/chea12ya/2021_GA), [윤진훈 님](https://github.com/YoonJinhoon/LikeLion_13th_DataCourse), [정진우](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project)
-
+  * 팀장 :
+    *  [김범중 님](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01) : 전체적인 역할 분담 및 자료 확인, 코드 작성.
+  * 팀원 :
+    *  [가채원 님](https://github.com/chea12ya/2021_GA) : 코드 작성 및 PPT 작성
+    *  [윤진훈 님](https://github.com/YoonJinhoon/LikeLion_13th_DataCourse) :  코드 작성 및 자료 확인
+    *  [정진우](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project) : 자료 수집/가공 및 코드 작성
+ 
+# Schedule
+  *  ~2021.09.24(금) : 필요한 데이터 크롤링 가능 여부 확인, 테스트.
+  *  ~2021.10.1(금) : 중간발표(기본 그래프 작성, PPT 작성)
+  *  ~2021.10.8(금) : 최종발표(추가 자료 보완, +ɑ 시각화)
 
 # Overview
-* 코로나19에 따른 생활 양상 변화
+* 주제 : 코로나19에 따른 생활 양상 변화
+* 주제 선정 배경 : 배경 코로나 확진자 수가 증가하면 집에서 보내는 시간이 증가하기에 홈트레이닝 시간, 온라인 쇼핑, 재택 근무 시간 등이 증가할 것으로 예상. 하지만, 코로나가 길어짐에 따라 확진자수 변화에 사람들이 점차 둔감해 질 것으로 예상
+* 목표 : 실제로 코로나 확진자 수 변화의 영향이 얼마나 되는 지 확인
+* 가설 : 처음에는 증가율이 증가하면 영향이 크지만, 코로나가 길어지면서 점차 영향이 줄어들 것으로 예측. 결과 도출 전략. 생활 변화 양상을 코로나 확진자 수 변화와 연계하여 비교.
+* 결과 도출 전략 : 생활 변화 양상을 코로나 확진자 수 변화와 연계하여 비교
 
 # Presentation
 * Proposal : [report](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/08_PRJ_team_project/report/LikeLion_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
