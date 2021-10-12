@@ -40,7 +40,7 @@
 * 가채원님 코드 : [코로나_확진자_수](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/가채원/(가채원님)월별%20코로나%20확진자%20변화율%20그래프.html)
 * 윤진훈님 코드 : [온라인쇼핑거래액](https://jinubot07.github.io/LikeLion_13th_DataCourse/08_PRJ_team_project/code/윤진훈/(윤진훈님)온라인쇼핑거래액.html)
 
-# Analysis
+# Issue
   * 코로나 확진자 수 변화(가채원)
      * 확진자 수 일별로 존재, 데이터 상 숫자가 누적값이라 처리 필요.
         * 해결) 해당 월 마지막 일을 잡아 차로 매달 확진자수 계산해 데이터 셋을 만들어 해결.
