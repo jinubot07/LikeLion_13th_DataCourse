@@ -19,8 +19,11 @@ From python To Deep-Learning for AI integration process
 * Pilot Project ( 2021.09.14 ~ 2021.09.16 )
   * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/06_PRJ_pilot_project)
   
-* Team Project ( 2021.09.17 ~ 2021.10.08 예정 )
+* Team Project ( 2021.09.17 ~ 2021.10.08 )
   * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/08_PRJ_team_project)
+
+* Team Project ( 2021.10.15 ~ 2021.11.12 )
+  * [이동하기](https://github.com/jinubot07/LikeLion_13th_DataCourse/tree/main/10_Team_PRJ_dacon)
 
 ## 파이썬의 기본과 데이터의 이해
   * 입출력 및 자료형 [code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210827.ipynb) / [강사님 code](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/01_python/20210827%EA%B0%95%EC%82%AC%EB%8B%98%EC%9E%90%EB%A3%8C.ipynb)
