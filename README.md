@@ -109,14 +109,14 @@ From python To Deep-Learning for AI integration process
 
 ## 머신러닝
 * 자연어 처리 Knolpy
-  * 동화 Alice 텍스트 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/20210930(1)_alice.html)
-  * 영화 <분노의 질주> 감상평 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/20210930(2)_movie_review.html)
+   * 동화 Alice 텍스트 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/20210930(1)_alice.html)
+   * 영화 <분노의 질주> 감상평 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/20210930(2)_movie_review.html)
 *  머신러닝 알고리즘
-  * 시작 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch01_ML_start.html)  
-  * knn code [수업code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch02_knn.html) , [실습code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch02_knn_pratice.html)
-  * 회귀(선형회귀) [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch03_linear.html)
-  * 회귀(Lasso, Ridge) [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch03_linear_ridge_lasso.html)
-  * 분류용 선형 모델 [이진분류code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_binary_classification.html) , [멀티크래스code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_multiclass_classification.html)
-  * 의사결정트리 [실습1code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(1).html) , [실습2code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(2).html)
-  * 앙상블 랜덤 포레스트 [tips code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_RandomForest(1).html) , [cancer code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_Randomforest(2).html) , [house price code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_Randomforest(3).html)
+   * 시작 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch01_ML_start.html)  
+   * knn code [수업code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch02_knn.html) , [실습code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch02_knn_pratice.html)
+   * 회귀(선형회귀) [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch03_linear.html)
+   * 회귀(Lasso, Ridge) [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch03_linear_ridge_lasso.html)
+   * 분류용 선형 모델 [이진분류code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_binary_classification.html) , [멀티크래스code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_multiclass_classification.html)
+   * 의사결정트리 [실습1code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(1).html) , [실습2code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(2).html)
+   * 앙상블 랜덤 포레스트 [tips code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_RandomForest(1).html) , [cancer code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_Randomforest(2).html) , [house price code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_Randomforest(3).html)
 
