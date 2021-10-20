@@ -108,6 +108,7 @@ From python To Deep-Learning for AI integration process
 
 
 ## 머신러닝
+### 지도학습
 * 자연어 처리 Knolpy
    * 동화 Alice 텍스트 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/20210930(1)_alice.html)
    * 영화 <분노의 질주> 감상평 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/20210930(2)_movie_review.html)
@@ -119,4 +120,33 @@ From python To Deep-Learning for AI integration process
    * 분류용 선형 모델 [이진분류code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_binary_classification.html) , [멀티크래스code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_multiclass_classification.html)
    * 의사결정트리 [실습1code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(1).html) , [실습2code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(2).html)
    * 앙상블 랜덤 포레스트 [tips code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_RandomForest(1).html) , [cancer code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_Randomforest(2).html) , [house price code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_Randomforest(3).html)
+   * 의사 결정 트리, 랜덤포레스트 시각화 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/)
+   * 앙상블 그래디언트 부스팅 결정트리 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/)
 
+### 데이터 전처리
+* 데이터 전처리
+   * 분석 [code]()
+* 원핫인코딩
+   * 동화 Alice 텍스트 분석 [code]
+* 구간 분할, 일변량 비선형 변환
+   * 구간분할 [code]()
+   * 비선형 변환(log 등) [code]()
+   * 특성자동 선택1 [code]()
+   * 특성자동 선택2 [code]()
+   
+### 비지도 학습
+* PCA 차원
+   * PCA 차원 축소 [code]()
+   * PCA 얼굴 예제 실습 [code]()
+   * PCA 차원 축소 - tsne [code]()
+* 군집
+   * 군집(Clustering) [code]()
+   * 병합 군집 [code]()
+   * DBSCAN [code]()
+* 얼굴 데이터 셋 분석
+* 군집 알고리즘 평가
+
+### 평가 및 검증
+   * 교차검증
+   * Grid Search
+   * 모델평가
