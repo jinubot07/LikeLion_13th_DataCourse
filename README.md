@@ -153,4 +153,4 @@ From python To Deep-Learning for AI integration process
 
 ### 세미나
  * 박조은 강사님
-   * 온라인 리테일 데이터로 고객 군집화 [pdf]()
+   * 온라인 리테일 데이터로 고객 군집화 [pdf](https://github.com/jinubot07/LikeLion_13th_DataCourse/blob/main/11_Seminar/Online%20Retail.pdf)
