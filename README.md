@@ -120,12 +120,12 @@ From python To Deep-Learning for AI integration process
    * 분류용 선형 모델 [이진분류code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_binary_classification.html) , [멀티크래스code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch04_multiclass_classification.html)
    * 의사결정트리 [실습1code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(1).html) , [실습2code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(2).html), [실습3code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch05_decisionTree(3).html)
    * 앙상블 랜덤 포레스트 [tips code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_ensemble_RandomForest(1).html) , [cancer code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_ensemble_Randomforest(2).html) , [house price code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_ensemble_Randomforest(3).html)
-   * 의사 결정 트리, 랜덤포레스트 시각화 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/ch06_ensemble_Randomforest(4).html)
-   * 앙상블 그래디언트 부스팅 결정트리 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/ch06_ensemble_gradient_boosting.html)
+   * 의사 결정 트리, 랜덤포레스트 시각화 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_ensemble_Randomforest(4).html)
+   * 앙상블 그래디언트 부스팅 결정트리 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/ch06_ensemble_gradient_boosting.html)
 
 ### 데이터 전처리
 * 데이터 전처리
-   * 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/데이터전처리.html)
+   * 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/html%20code/데이터전처리.html)
 * 원핫인코딩
    * 동화 Alice 텍스트 분석 [code]
 * 구간 분할, 일변량 비선형 변환
