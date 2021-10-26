@@ -125,7 +125,7 @@ From python To Deep-Learning for AI integration process
 
 ### 데이터 전처리
 * 데이터 전처리
-   * 분석 [code]()
+   * 분석 [code](https://jinubot07.github.io/LikeLion_13th_DataCourse/09_data_analysis/데이터전처리.html)
 * 원핫인코딩
    * 동화 Alice 텍스트 분석 [code]
 * 구간 분할, 일변량 비선형 변환
