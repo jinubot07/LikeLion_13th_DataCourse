@@ -150,3 +150,7 @@ From python To Deep-Learning for AI integration process
    * 교차검증
    * Grid Search
    * 모델평가
+
+### 세미나
+ * 박조은 강사님
+   * 온라인 리테일 데이터로 고객 군집화 [pdf]()
